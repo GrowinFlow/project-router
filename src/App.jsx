@@ -28,7 +28,7 @@ function App() {
           <Route path="product" element={<Product />} />
           <Route path="user" element={<User />} />
           <Route path="un" element={<Un />} />
-          <Route path="un:username" element={<UserParams />} />
+          <Route path="un/:username" element={<UserParams />} />
           <Route path="login" element={<Login />} />
         </Route>
       </Routes>
