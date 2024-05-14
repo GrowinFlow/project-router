@@ -35,8 +35,7 @@ const UserParams = () => {
 
         <div class="flex gap-4">
 
-            <a title="youtube url" href="https://www.youtube.com/@mcqmate" target="_blank"
-                rel="noopener noreferrer">
+            <a title="youtube url" rel="noopener noreferrer">
                 <svg class="h-6 w-6 dark:text-gray-300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
                     fill="none">
                     <path fill-rule="evenodd" clip-rule="evenodd"
@@ -45,7 +44,7 @@ const UserParams = () => {
                 </svg>
             </a>
 
-            <a title="website url" href="https://mcqmate.com/" target="_blank" rel="noopener noreferrer">
+            <a title="website url"  rel="noopener noreferrer">
                 <svg class="h-6 w-6 dark:text-gray-300" xmlns="http://www.w3.org/2000/svg" fill="none"
                     viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round"
