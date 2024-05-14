@@ -12,7 +12,7 @@ const Navbar = () => {
                 <NavItems changeLink="/about" linkName="About"/>
                 <NavItems changeLink="/product" linkName="Product"/>
                 <NavItems changeLink="/user" linkName="User"/>
-                <NavItems changeLink="/un" linkName="User Params"/>
+                <NavItems changeLink="/un/" linkName="User Params"/>
                 <NavItems changeLink="/login" linkName="Login"/>
 
             </nav>
